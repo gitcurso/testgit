@@ -1,8 +1,10 @@
-public class Hola {
-  static String nombre = "UN TIO";
+public class adios {
+   String nombre = "UN TIO";
 
-  // ENTRA TODO AQUI
+  // ENTRA TODO AQUI 
   public static void main(String[] args) {
-    System.out.println("HOLA " + nombre);
-  }
+  	adios a = new adios();
+  System.out.println("HOLA " + a.nombre);
+  
+ }
 }
